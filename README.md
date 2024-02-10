@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oristudio01@gmail.com**
 
-- ⚡ Fun fact **The term "bug" in computer science originated in 1947 when Grace Hopper found an actual moth causing a malfunction in the Harvard Mark II computer.**
+- ⚡ Fun fact **Life is not funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
